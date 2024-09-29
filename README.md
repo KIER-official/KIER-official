@@ -7,27 +7,15 @@
 
  
 
-## Message from the President
+## Purpose of establishment
 
-### Leading the Way in K-Energy,KIER
+* "It aims to contribute to the creation of national growth engines and the development of the national economy through R&D and spread of achievements in the energy technology area" (Article 2 of the articles of association)
 
-> Resolving the Energy Trilemma  
-> Revolutionizing Energy Technology by Super-convergence and Super-gap  
-> Pioneering New Energy Systems and Markets  
+## Functions
 
+![](https://www.kier.re.kr/resources/images/eps/content/c_functions2.jpg)
 
-* Extreme weather events currently taking place around the world are heralding a climate crisis, and the ongoing Ukraine-Russia war is intensifying the disruption of global energy supply chain and energy security concerns, making every country battle for their energy survival.
-Such domestic and international challenges surrounding KIER are giving us a mission to resolve ‘the Energy Trilemma’.
+## History
 
-
-* As the only government funded energy research institute, KIER has been taking the lead in research activities to address both the nation's energy security and carbon neutrality issues. KIER has achieved remarkable growth by generating numerous world-class research achievements in hydrogen production and utilization technologies, renewable energy innovation technologies, smart energy efficiency technologies, and clean energy technologies.
-
-
-* Now, the key to solving the Energy Trilemma is to pioneer a new energy paradigm and market by achieving significant innovations in energy technology driven by super-convergence and super-gap. KIER aims to lead the world market by promoting K-Energy, which involves the convergence of technologies, collaboration among people, integration with corporations and markets, the creation of super-gap products, and maintenance of the super-gap technology.
-
-
-* KIER will continue to contribute to the generation of national growth momentum and the development of the economy by solving energy security issues. Furthermore, we aim to become a research institution that also contributes to the sustainable development of humanity facing the climate crisis.
-
-  * Yi, Chang-Keun
-  * President, Korea Institute of Energy Research(KIER)
+![](https://www.kier.re.kr/resources/images/eps/content/c_history.jpg)
  
